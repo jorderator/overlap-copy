@@ -1,0 +1,2 @@
+usage:  overlap-copy [-qth] {source directory} {target directory}
+	overlap-copy [-qth] -d {directory}

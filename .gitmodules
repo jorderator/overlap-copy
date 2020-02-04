@@ -1,0 +1,6 @@
+[submodule "arg-handler"]
+	path = arg-handler
+	url = https://github.com/jorderator/lua-arg-handler
+[submodule "sorting"]
+	path = sorting
+	url = https://github.com/jorderator/sorting-algorithms
