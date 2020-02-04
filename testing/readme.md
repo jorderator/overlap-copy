@@ -7,5 +7,6 @@
 
 ## Usage
 
- They are intended to be run from within this directory, pointing at the 'tests' folder,
- however changing this just requires altering the 'path_prefix' variable where applicable.
+ They are intended to be run from within this directory, pointing at a 'tests' subfolder
+ or similar, however changing this just requires altering the 'path_prefix' variable 
+ where applicable, and supplying a different target folder as the argument.
